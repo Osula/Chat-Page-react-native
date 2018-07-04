@@ -1,2 +1,3 @@
 # ChatPage
-A simple chat screen
+A simple chat screen created with react-native.
+![](chatScreen.GIF)
